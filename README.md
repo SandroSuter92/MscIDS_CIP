@@ -1,6 +1,6 @@
 # MscIDS_CIP
 
-This repository was created during the Module "Data Collection, Integration and Preprocessing". The goal was to plan and run a classical ETL-Process, which contains three different dataset, from which two has to be scrapped and one can be downloaded from kaggle. With these data some predefined questions had to be answered.
+This repository was created during the Module "Data Collection, Integration and Preprocessing" in the 2nd semester during the Msc Applied Information and Data Science at the Lucerne University of Applied Science. The goal was to plan and run a classical ETL-Process, which contains three different dataset, from which two has to be scrapped and one can be downloaded from kaggle. With these data some predefined questions had to be answered.
 
 ## Questions
 
